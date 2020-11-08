@@ -1,7 +1,7 @@
 -- drop database snet2910;
 drop database if exists snet2910;
--- create database if not exists snet2910 character set = utf8mb4;
-create database snet2910;
+create database if not exists snet2910 character set = utf8mb4;
+--create database snet2910;
 use snet2910;
 
 -- use snet2910;
